@@ -36,22 +36,18 @@ https://github.com/Larusu/Bulls-and-Cows.git
 cd Bulls-and-Cows/
 ```
 
-### Compile (Linux/macOS)
+### Compile and Run (Linux/macOS)
 
 ```bash
 g++ BullsAndCowsGame.cpp -o main
+./main
 ```
 
-### Compile (Windows)
+### Compile and Run (Windows)
 
 ```bash
 g++ BullsAndCowsGame.cpp -o main.exe
-```
-
-### Run
-
-```bash
-./BullsAndCowsGame
+./main.exe
 ```
 
 ## How to Play
