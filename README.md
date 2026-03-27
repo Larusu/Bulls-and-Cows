@@ -27,9 +27,12 @@ The game features three difficulty levels:
 - C++ compiler (g++, clang++, or MSVC)
 - C++11 or later
 
-## Building and Running
+## Setup Guide
 
-```bash
+### Clone Repository
+
+```
+https://github.com/Larusu/Bulls-and-Cows.git
 cd Bulls-and-Cows/
 ```
 
