@@ -31,9 +31,9 @@ The game features three difficulty levels:
 
 ### Clone Repository
 
-```
-https://github.com/Larusu/Bulls-and-Cows.git
-cd Bulls-and-Cows/
+```bash
+git clone https://github.com/Larusu/Bulls-and-Cows.git
+cd Bulls-and-Cows
 ```
 
 ### Compile and Run (Linux/macOS)
